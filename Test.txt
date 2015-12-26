@@ -6,7 +6,4 @@ Adding a 2nd line.
 6th
 7th.
 8th.
-<<<<<<< HEAD
 9
-=======
->>>>>>> branch 'master' of https://github.com/gittu01/Test.git
