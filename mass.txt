@@ -10,7 +10,4 @@ Lost world.
 Missi.
 Pest.
 Gas and Plasma.
-<<<<<<< HEAD
 FOrce update.
-=======
->>>>>>> d284c3fab402a8a09067760584e95579b3fea533
